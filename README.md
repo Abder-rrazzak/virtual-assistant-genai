@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🧠 Generative AI Virtual Assistant
 
 A modular, containerized **virtual assistant** built with **FastAPI**, **LangChain**, and **Docker**.  
