@@ -1,4 +1,3 @@
-Here’s a **professional, production-style `README.md`** for your Generative AI Virtual Assistant repo scaffold:
 
 ```markdown
 # 🧠 Generative AI Virtual Assistant
